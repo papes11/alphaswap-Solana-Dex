@@ -36,8 +36,7 @@ Alpha Swap is a decentralized token swapping platform that enables users to trad
 3. Install dependencies:
    ```sh
    npm install
-   ```
-   ```
+   
 4. Run the application:
    ```sh
    npm start
